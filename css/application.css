@@ -1,0 +1,120 @@
+.top-bar{
+    height: 100px !important;
+}
+.fullWidth{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    max-width: 100% !important;
+}
+#page1 {
+    background-image: url("img/bg1.png");
+    height: 875px;
+    margin-top: 90px;
+    padding-top: 50px;
+}
+#page2 {
+    background-color: white;
+    height: 875px;
+    background-image: url("img/bg2.png");
+    padding-top: 70px;
+}
+#page3 {
+    background-color: #000000;
+    height: 875px;
+    background-image: url("img/pg3.png");
+    padding-top: 50px;
+}
+#page4 {
+    background-color: white;
+    height: 1075px;
+    background-image: url("img/bg4.png");
+    padding-top: 50px;
+}
+#page5 {
+    background-color: #000000;
+    height: 675px;
+
+    padding-top: 30px;
+}
+.name {
+    margin-top: 10px !important;
+    background: url("img/logo.png");
+    width:440px;
+    height:80px !important;
+    background-repeat:no-repeat;
+}
+
+.sitetitle {
+    margin-left:105px !important;
+    color:white;
+    font-size:15pt !important;
+    font-weight: 600;
+    text-transform: uppercase;
+padding-top: 8px;
+}
+p{
+    color:white !important;
+    font-size:16pt;
+}
+@media only screen and (max-width: 600px) {
+    p{
+    font-size:12pt !important;
+}
+}
+h1{
+    color:white !important;
+}
+.panel{
+    background: rgba(0,0,0,0.5);
+    border: 0;
+}
+.photo{
+    padding: 5px;
+    padding-top:10px;
+    color:white;
+
+}
+.productimage{
+    background-image: url("img/part.png");
+    background-size: contain;
+    height: 400px;
+    background-repeat: no-repeat;
+}
+h2{
+    color:White;
+}
+.page3text{
+    color:white;
+}
+.page3text li{
+    color:white;
+    margin-left: 46px;
+}
+.page3text h3{
+    color:#38c6f4 !important;
+}
+h3{
+    color:white !important;
+}
+li{
+    color:white !important;
+    margin-left: 46px;
+}
+#bigpic{
+    background-image: url("img/bigpic.png");
+    background-size: cover ;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+hr{
+    color:white;
+}
+.bottombar{
+    color:white !important;
+}
+.watlogo{
+    background-image: url("img/watlogo.png");
+    height: 100px;
+    background-repeat: no-repeat;
+    //margin-left:45%;
+}
